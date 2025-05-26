@@ -1,8 +1,3 @@
-//
-//Radhika Agrawal
-//HW 5 titled Dungeons and Dragons
-//
-
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
